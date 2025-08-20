@@ -1,4 +1,4 @@
-# 🎯 Interactive Quiz
+# 🎯 Quiz
 
 ## 📌 Description
 This is an **interactive quiz** built with HTML, CSS, and JavaScript, featuring a dynamic progress bar, animated feedback, and a clean, responsive design.  
