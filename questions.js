@@ -6,16 +6,11 @@ let questions = [
   },
   {
     question: "Where is the correct place to insert JavaScript?",
-    options: [
-      "Inside the body tag",
-      "Inside the head tag",
-      "Both body and head tags are correct",
-    ],
+    options: ["Inside the body tag", "Inside the head tag", "Both body and head tags are correct"],
     answer: 2,
   },
   {
-    question:
-      "What is the correct syntax to link an external JavaScript file in a script tag?",
+    question: "What is the correct syntax to link an external JavaScript file in a script tag?",
     options: ['name="xxx.js"', 'src="xxx.js"', 'href="xxx.js"'],
     answer: 1,
   },
@@ -26,26 +21,17 @@ let questions = [
   },
   {
     question: 'How do you write "Hello World" in an alert box?',
-    options: [
-      'alertBox("Hello World")',
-      'msgBox("Hello World")',
-      'msg("Hello World")',
-      'alert("Hello World")',
-    ],
+    options: ['alertBox("Hello World")', 'msgBox("Hello World")', 'msg("Hello World")', 'alert("Hello World")'],
     answer: 3,
   },
   {
     question: "How do you create a function in JavaScript?",
-    options: [
-      "function:minhaFuncao()",
-      "function = minhaFuncao()",
-      "function minhaFuncao()",
-    ],
+    options: ["function:myFunction()", "function = myFunction()", "function myFunction()"],
     answer: 2,
   },
   {
-    question: 'How do you call a function named "minhaFuncao"?',
-    options: ["call minhaFuncao", "call function minhaFuncao", "minhaFuncao()"],
+    question: 'How do you call a function named "myFunction"?',
+    options: ["call myFunction", "call function myFunction", "myFunction()"],
     answer: 2,
   },
   {
@@ -54,8 +40,7 @@ let questions = [
     answer: 2,
   },
   {
-    question:
-      'How do you write an IF statement that executes code if "i" is not equal to 5?',
+    question: 'How do you write an IF statement that executes code if "i" is not equal to 5?',
     options: ["if (i != 5)", "if (i <> 5)", "if i <> 5", "if i =! 5 then"],
     answer: 0,
   },
